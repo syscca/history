@@ -1,6 +1,8 @@
 # history
 跨境利润计算器
 
+![GitHub图像](/1739238558108.png)
+
 Python 3.x
 
 PyQt5
